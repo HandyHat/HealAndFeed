@@ -1,0 +1,11 @@
+#Feed permissions
+Feed:
+  Feedperm: ulti.feed
+  Feedpermothers: ulti.feed.others
+  Feedcooldownbypassperm: ulti.feed.bypass
+
+#Heal permissions
+Heal:
+  Healperm: ulti.heal
+  Healpermothers: ulti.heal.others
+  Healcooldownbypassperm: ulti.heal.bypass
