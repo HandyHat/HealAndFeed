@@ -1,9 +1,0 @@
-name: HealAndFeed
-version: 1.0.1
-main: tonimatasmc.healandfeed.HealAndFeed
-
-commands:
-  feed:
-    description: Feed a player
-  heal:
-    description: Heal a player
