@@ -1,0 +1,4 @@
+Config:
+#Heal and Feed Cooldown /heal or /feed
+    feed-cooldown-time: 30
+    heal-cooldown-time: 30

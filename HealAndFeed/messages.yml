@@ -1,0 +1,21 @@
+Messages:
+
+Console:
+    command-not-usable-in-console: "You cannot run this command from the console"
+Permissions:
+    no-permission-message: "&lYou are lacking the permission&8: &6%permission%"
+Other:
+    Mustbeaplayer: '&cYou must be a player to execute this command!'
+    unknownplayer: '&c%target% is not online!'
+Feed:
+    Feed: '&c You have been fed'
+    Feedother: '&cYou have fed %target%'
+    Fedby: '&c You have been fed by %player%'
+    Usagefeed: '&c Usage: /feed <player>'
+    Feedcooldownmsg: '&c You can use this command in %timeleft% seconds!'
+Heal:
+    Heal: '&c You have been healed!'
+    Healother: '&c You have healed %target%!'
+    Healby: '&c You have been healed by %player%'
+    Usageheal: '&c Usage: /heal <player>'
+    Healcooldownmsg: '&c You can use this command in %timeleft% seconds!'
