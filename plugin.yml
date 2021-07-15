@@ -1,6 +1,7 @@
 name: HealAndFeed
 version: 1.0.1
 main: tonimatasmc.healandfeed.HealAndFeed
+api-version: 1.13
 
 commands:
   feed:
